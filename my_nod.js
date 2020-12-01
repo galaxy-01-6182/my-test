@@ -1,1 +1,0 @@
-var load = "My node"
